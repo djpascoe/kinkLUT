@@ -1,2 +1,2 @@
 # kinkLUT
-A lookup table for analysis of coronal look kink oscillations
+A lookup table for analysis of coronal loop kink oscillations
