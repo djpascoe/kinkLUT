@@ -3,7 +3,7 @@ A lookup table (LUT) for the analysis of coronal loop kink oscillations, as desc
 
 _Coronal loop seismology using standing kink oscillations with a lookup table_<br/>
 David James Pascoe, Alan William Hood, Tom Van Doorsselaere<br/>
-Frontiers in Astronomy and Space Sciences (under review)
+Frontiers in Astronomy and Space Sciences, 2019, 6, 22
 
 Version 1.0 of the LUT is stored in the IDL save file `kinklut_v1_0.sav` and its use is demonstrated in the routine `kinklut_example`.
 
